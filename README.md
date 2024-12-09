@@ -1,4 +1,5 @@
-﻿# Codebasics-SQL-Challenge-Solutions
+﻿# Ad-hoc request challenge
+
 This repository contains the solutions for the Codebasics SQL Challenge. Below is an overview of the queries and their objectives.
 
 Challenge Overview
